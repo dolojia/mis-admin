@@ -13,7 +13,7 @@
 ### IntelliJ IDEA ###
 .idea
 .mvn
-log
+logs
 *.iws
 *.iml
 *.ipr
